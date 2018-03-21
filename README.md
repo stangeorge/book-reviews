@@ -4,11 +4,24 @@ A few words on this books I've read:
 
 ## Table of Contents
 
-[Non-Fiction](#nonfiction)  
-[Science-Fiction](#science_fiction)  
-[Fiction](#fiction)  
-[Classics](#classics)  
-[Poems](#poems)  
+* [Awesome](#awesome)
+* [Non-Fiction](#non-fiction)
+* [Science-Fiction](#science-fiction)
+* [Fiction](#fiction)
+* [Classics](#classics)
+* [Poems](#poems)
+
+---
+
+## Awesome
+
+These are my favorite books from all categories
+* [Lab Girl](#lab-girl-by-hope-jahren) by Hope Jahren (Non-Fiction)
+* The Theory of Everything by Stephen Hawking (Non-Fiction)
+* Foundation Trilogy by Isaac Asimov (Science-Fiction)
+* The Book Thief by Marcus Zusak (Fiction)
+* The Shadow of the Wind by Carlos Ruiz Zafón (Fiction)
+* The Old Man and the Sea by Ernest Hemingway (Classic)
 
 ---
 
@@ -16,13 +29,13 @@ A few words on this books I've read:
 
 * The Visual Display of Quatitative Information By Edward R. Tufte
 * Understanding Orchids by William Cullina
-* Lab Girl By Hope Jahren (Awesome)    
+* [Lab Girl](#lab-girl-by-hope-jahren) by Hope Jahren (Awesome)
 * The Theory of Everything by Stephen Hawking (Awesome)
-* A Briefer History of Time By Leonard Mlodinow and Stephen Hawking
+* A Briefer History of Time by Leonard Mlodinow and Stephen Hawking
 * Shoe Dog: A Memoir by the Creator of Nike by Phil Knight
 * Mapping the Heavens by Priyamvada Natarajan
-* Zero to One By Blake Masters and Peter Thiel
-* Everybody Lies By Seth Stephens-Davidowitz
+* Zero to One by Blake Masters and Peter Thiel
+* Everybody Lies by Seth Stephens-Davidowitz
 
 ---
 
@@ -38,25 +51,25 @@ A few words on this books I've read:
     * The Caves of Steel
     * The Naked Sun
     * Gold: The Final Science Fiction Collection
-* Dune By Frank Herbert
+* Dune by Frank Herbert
 
 ---
 
 ### Fiction
 
-* The Book Thief By Marcus Zusak (Awesome)
+* The Book Thief by Marcus Zusak (Awesome)
 * Carlos Ruiz Zafón
     * The Shadow of the Wind (Awesome)
     * Prisoner of Heaven
     * Angels Game
-* The Handmaid’s Tale By Margaret Atwood
+* The Handmaid’s Tale by Margaret Atwood
 * Ayn Rand
     * Atlas Shrugged
     * Fountainhead
-* The Traitor's Emblem By Juan Gómez-Jurado
-* Family Life By Akhil Sharma
-* My Sister's Keeper By Jodi Picoult
-* The Girl with All the Gifts By M.R. Carey
+* The Traitor's Emblem by Juan Gómez-Jurado
+* Family Life by Akhil Sharma
+* My Sister's Keeper by Jodi Picoult
+* The Girl with All the Gifts by M.R. Carey
 
 ---
 
@@ -64,8 +77,9 @@ A few words on this books I've read:
 
 * Ernest Hemingway
     * The Old Man and the Sea (Awesome)
-    * [The Sun Also Rises](#the_sun_also_rises)
+    * [The Sun Also Rises](#the-sun-also-rises-by-ernest-hemingway)
 * The Age of Innocence By Edith Wharton
+* Don Quixote by Miguel de Cervantes
 
 ---
 
@@ -75,7 +89,23 @@ A few words on this books I've read:
 
 ---
 
-#### The Sun Also Rises
+#### Lab Girl by Hope Jahren
+
+I read this book and wanted to love science as Hope does. I wanted to be as tenacious as Bill is. I wanted to be a botanist. I wanted to be a tree hugger. This is an amazing read. Hope and Bill went through enough things to make this into a movie. Not only is truth stranger than fiction, it is also more fun.
+
+The first thing that bubbles up is Hope's love for plants and science. She describes her struggles with mania. She requests for umpteen grants. I realize science is not easy. I heard her mention on NPR radio that she stretched every quarter to a dollar to make it last more. She felt humble being able to work on what she loved.
+
+Bill is an unbelievable character. He starts off homeless. He lives, shaves and eats in a van. Then he is promoted to sleeping and living in the labs. He has dedicated his life to science. He is a true good hacker.
+
+Its comical how they meet, how Hope offers Bill a job and how Bill accepts it. That begins an adventure that sounds like a movie plot. There is the amazing trip to iceland. They unsuccessfully bluff at airport customs.
+
+Hope and Bill are an inspiration. Their loyalty is unparalleled. They remind me of my favorite fictional duo: Hari Seldon and Yugo Amaryl from the Foundation series science-fiction books. Seldon the scientist and Yugo the eternal workaholic.
+
+This is a great book. It is an inspiration for anyone to become the best in whatever they are doing.
+
+---
+
+#### The Sun Also Rises by Ernest Hemingway
 
 This is my second Hemingway book. I was hooked after reading his The Old Man and the Sea. The book itself is fairly straightforward and describes the events surrounding Jake and Brett. Jake is a writer and Brett is a lady with a title.
 
