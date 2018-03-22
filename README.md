@@ -18,7 +18,7 @@ A few words on this books I've read:
 These are my favorite books from all categories
 * [Lab Girl](#lab-girl-by-hope-jahren) by Hope Jahren (Non-Fiction)
 * The Theory of Everything by Stephen Hawking (Non-Fiction)
-* Foundation Trilogy by Isaac Asimov (Science-Fiction)
+* [Foundation Trilogy](#foundation-trilogy-by-isaac-asimov) by Isaac Asimov (Science-Fiction)
 * The Book Thief by Marcus Zusak (Fiction)
 * The Shadow of the Wind by Carlos Ruiz Zafón (Fiction)
 * The Old Man and the Sea by Ernest Hemingway (Classic)
@@ -42,15 +42,15 @@ These are my favorite books from all categories
 ### Science-Fiction
 
 * Isaac Asimov
-    * Foundation Trilogy (Awesome)
-    * Foundation's Edge
-    * Foundation And Earth
-    * Prelude to Foundation
-    * Forward the Foundation
-    * I, Robot
-    * The Caves of Steel
-    * The Naked Sun
-    * Gold: The Final Science Fiction Collection
+  * Foundation Trilogy (Awesome)
+  * Foundation's Edge
+  * Foundation And Earth
+  * Prelude to Foundation
+  * Forward the Foundation
+  * I, Robot
+  * The Caves of Steel
+  * The Naked Sun
+  * Gold: The Final Science Fiction Collection
 * Dune by Frank Herbert
 
 ---
@@ -76,8 +76,8 @@ These are my favorite books from all categories
 ### Classics
 
 * Ernest Hemingway
-    * The Old Man and the Sea (Awesome)
-    * [The Sun Also Rises](#the-sun-also-rises-by-ernest-hemingway)
+  * The Old Man and the Sea (Awesome)
+  * [The Sun Also Rises](#the-sun-also-rises-by-ernest-hemingway)
 * The Age of Innocence By Edith Wharton
 * Don Quixote by Miguel de Cervantes
 
@@ -102,6 +102,20 @@ Its comical how they meet, how Hope offers Bill a job and how Bill accepts it. T
 Hope and Bill are an inspiration. Their loyalty is unparalleled. They remind me of my favorite fictional duo: Hari Seldon and Yugo Amaryl from the Foundation series science-fiction books. Seldon the scientist and Yugo the eternal workaholic.
 
 This is a great book. It is an inspiration for anyone to become the best in whatever they are doing.
+
+---
+
+#### Foundation Trilogy by Isaac Asimov
+
+Foundation is my first science-fiction book. And it blew me away. I am a huge fan of science-fiction movies but this is so much more. There is the usual advanced technology but the plot is thick. The characters are awesome and the twists are amazing. After reading this I just had to read the other two books: Foundation and Empire, Second Foundation.
+
+The first book lays the ground work for psychohistory. This is the mathematics of predicting the future. The story starts off innocently enough with people writing an encyclopedia. Then Mayors such as Salvador Hardin show amazing political skill. This follows the age of the Traders such as Hober Mallow. This part feels like a Bond movie.
+
+The second book pits the Foundation against the Galactic Empire. General Bel Riose seems unstoppable. The war tactics are witty. When it looks like nothing can stop the Foundation, along comes the Mule. And it gets exciting! The suspense is amazing and all seems lost.
+
+The third book deals with the little known Second Foundation. They are almost a myth. First the Mule searches for them. Then the first Foundation searches for them.
+
+Overall, this was completely satisfying. Asimov is young and impatient. He leaves a lot to the readers to figure out. This is different from the mature Asimov of the later books in the Foundation series. I love this young Asimov from the Foundation trilogy. It feels like many novels combined into each of these books.
 
 ---
 
