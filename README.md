@@ -52,6 +52,10 @@ These are my favorite books from all categories
   * The Naked Sun
   * Gold: The Final Science Fiction Collection
 * Dune by Frank Herbert
+* Ursula K. Le Guin
+  * A Wizard of Earthsea
+  * The Tombs of Atuan
+  * The Farthest Shore
 
 ---
 
