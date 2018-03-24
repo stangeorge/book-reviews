@@ -1,6 +1,6 @@
 # Book Reviews
 
-A few words on this books I've read:
+A few words on the books I've read:
 
 ## Table of Contents
 
@@ -16,12 +16,21 @@ A few words on this books I've read:
 ## Awesome
 
 These are my favorite books from all categories
-* [Lab Girl](#lab-girl-by-hope-jahren) by Hope Jahren (Non-Fiction)
-* The Theory of Everything by Stephen Hawking (Non-Fiction)
-* [Foundation Trilogy](#foundation-trilogy-by-isaac-asimov) by Isaac Asimov (Science-Fiction)
-* The Book Thief by Marcus Zusak (Fiction)
-* The Shadow of the Wind by Carlos Ruiz Zafón (Fiction)
-* The Old Man and the Sea by Ernest Hemingway (Classic)
+* Non-Fiction
+  * [Lab Girl](#lab-girl-by-hope-jahren) by Hope Jahren
+  * The Theory of Everything by Stephen Hawking
+* Science-Fiction
+  * [Foundation Trilogy](#foundation-trilogy-by-isaac-asimov) by Isaac Asimov ()
+  * A Wizard of Earthsea by Ursula K. Le Guin
+* Fiction
+  * The Book Thief by Marcus Zusak (Fiction)
+  * The Shadow of the Wind by Carlos Ruiz Zafón
+* Classics
+  * Don Quixote by Miguel de Cervantes
+  * The Count of Monte Cristo by Alexandre Dumas
+  * The Old Man and the Sea by Ernest Hemingway
+* Children's Books
+  * Molly's Pilgrim by Barbara Cohen
 
 ---
 
@@ -53,7 +62,7 @@ These are my favorite books from all categories
   * Gold: The Final Science Fiction Collection
 * Dune by Frank Herbert
 * Ursula K. Le Guin
-  * A Wizard of Earthsea
+  * A Wizard of Earthsea (Awesome)
   * The Tombs of Atuan
   * The Farthest Shore
 
@@ -79,17 +88,35 @@ These are my favorite books from all categories
 
 ### Classics
 
+* Don Quixote by Miguel de Cervantes (Awesome)
+* The Count of Monte Cristo by Alexandre Dumas (Awesome)
+* The Metamorphosis by Franz Kafka
 * Ernest Hemingway
   * The Old Man and the Sea (Awesome)
   * [The Sun Also Rises](#the-sun-also-rises-by-ernest-hemingway)
 * The Age of Innocence By Edith Wharton
-* Don Quixote by Miguel de Cervantes
 
 ---
 
 ### Poems
 
 * milk and honey By Rupi Kaur
+
+---
+
+### Children's Books
+
+* Molly's Pilgrim by Barbara Cohen (Awesome)
+* Mama Panya's Pancakes: A Village Tale from Kenya by Mary Chamberlin
+* Strega Nona by Tomie dePaola
+* The Gingerbread Man by Jim Aylesworth
+* Ken Brown
+  * What's the time, Grandma Wolf?
+  * Mucky Pup's Christmas
+  * Nellie's Knot
+  * The Scarecrow's Hat
+* Three Little Fish And The Big Bad Shark by Ken Geist and Will Grace
+* Where the Wild Things Are by Maurice Sendak
 
 ---
 
