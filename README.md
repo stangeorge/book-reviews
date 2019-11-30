@@ -25,6 +25,7 @@ These are my favorite books from all categories
 * Fiction
   * The Book Thief by Marcus Zusak (Fiction)
   * The Shadow of the Wind by Carlos Ruiz Zafón
+  * The Shell Collector: Stories by Anthony Doerr (Awesome)
 * Classics
   * Don Quixote by Miguel de Cervantes
   * The Count of Monte Cristo by Alexandre Dumas
@@ -83,6 +84,10 @@ These are my favorite books from all categories
 * Family Life by Akhil Sharma
 * My Sister's Keeper by Jodi Picoult
 * The Girl with All the Gifts by M.R. Carey
+* While Mortals Sleep by Kurt Vonnegut
+* The Shell Collector: Stories by Anthony Doerr (Awesome)
+* Five by Ursula Archer
+* The Strange Library by Haruki Murakami
 
 ---
 
