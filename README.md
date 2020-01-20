@@ -4,28 +4,28 @@ A few words on the books I've read:
 
 ## Table of Contents
 
-* [Awesome](#awesome)
-* [Non-Fiction](#non-fiction)
-* [Science-Fiction](#science-fiction)
-* [Fiction](#fiction)
-* [Classics](#classics)
-* [Poems](#poems)
+[Favorite](#favorite)  
+[Non-Fiction](#non-fiction)  
+[Science-Fiction](#science-fiction)  
+[Fiction](#fiction)  
+[Classics](#classics)  
+[Poems](#poems)  
 
 ---
 
-## Awesome
+## Favorite
 
 These are my favorite books from all categories
 * Non-Fiction
   * [Lab Girl](#lab-girl-by-hope-jahren) by Hope Jahren
   * The Theory of Everything by Stephen Hawking
 * Science-Fiction
-  * [Foundation Trilogy](#foundation-trilogy-by-isaac-asimov) by Isaac Asimov ()
+  * [Foundation Trilogy](#foundation-trilogy-by-isaac-asimov) by Isaac Asimov
   * A Wizard of Earthsea by Ursula K. Le Guin
 * Fiction
   * [The Book Thief](#the-book-thief-by-marcus-zusak) by Marcus Zusak
   * The Shadow of the Wind by Carlos Ruiz Zafón
-  * The Shell Collector: Stories by Anthony Doerr (Awesome)
+  * The Shell Collector: Stories by Anthony Doerr
 * Classics
   * Don Quixote by Miguel de Cervantes
   * The Count of Monte Cristo by Alexandre Dumas
@@ -39,8 +39,8 @@ These are my favorite books from all categories
 
 * The Visual Display of Quatitative Information By Edward R. Tufte
 * Understanding Orchids by William Cullina
-* [Lab Girl](#lab-girl-by-hope-jahren) by Hope Jahren (Awesome)
-* The Theory of Everything by Stephen Hawking (Awesome)
+* ★ [Lab Girl](#lab-girl-by-hope-jahren) by Hope Jahren
+* ★ The Theory of Everything by Stephen Hawking
 * A Briefer History of Time by Leonard Mlodinow and Stephen Hawking
 * Shoe Dog: A Memoir by the Creator of Nike by Phil Knight
 * Mapping the Heavens by Priyamvada Natarajan
@@ -49,10 +49,10 @@ These are my favorite books from all categories
 
 ---
 
-### Science-Fiction
+## Science-Fiction
 
 * Isaac Asimov
-  * Foundation Trilogy (Awesome)
+  * ★ Foundation Trilogy
   * Foundation's Edge
   * Foundation And Earth
   * Prelude to Foundation
@@ -63,17 +63,17 @@ These are my favorite books from all categories
   * Gold: The Final Science Fiction Collection
 * Dune by Frank Herbert
 * Ursula K. Le Guin
-  * A Wizard of Earthsea (Awesome)
+  * ★ A Wizard of Earthsea
   * The Tombs of Atuan
   * The Farthest Shore
 
 ---
 
-### Fiction
+## Fiction
 
-* [The Book Thief](#the-book-thief-by-marcus-zusak) by Marcus Zusak (Awesome)
+* ★ [The Book Thief](#the-book-thief-by-marcus-zusak) by Marcus Zusak
 * Carlos Ruiz Zafón
-    * The Shadow of the Wind (Awesome)
+    * ★ The Shadow of the Wind
     * Prisoner of Heaven
     * Angels Game
 * The Handmaid’s Tale by Margaret Atwood
@@ -85,33 +85,33 @@ These are my favorite books from all categories
 * My Sister's Keeper by Jodi Picoult
 * The Girl with All the Gifts by M.R. Carey
 * While Mortals Sleep by Kurt Vonnegut
-* The Shell Collector: Stories by Anthony Doerr (Awesome)
+* ★ The Shell Collector: Stories by Anthony Doerr
 * Five by Ursula Archer
 * The Strange Library by Haruki Murakami
 
 ---
 
-### Classics
+## Classics
 
-* Don Quixote by Miguel de Cervantes (Awesome)
-* The Count of Monte Cristo by Alexandre Dumas (Awesome)
+* ★ Don Quixote by Miguel de Cervantes
+* ★ The Count of Monte Cristo by Alexandre Dumas
 * The Metamorphosis by Franz Kafka
 * Ernest Hemingway
-  * The Old Man and the Sea (Awesome)
+  * ★ The Old Man and the Sea
   * [The Sun Also Rises](#the-sun-also-rises-by-ernest-hemingway)
 * The Age of Innocence By Edith Wharton
 
 ---
 
-### Poems
+## Poems
 
 * milk and honey By Rupi Kaur
 
 ---
 
-### Children's Books
+## Children's Books
 
-* Molly's Pilgrim by Barbara Cohen (Awesome)
+* ★ Molly's Pilgrim by Barbara Cohen
 * Mama Panya's Pancakes: A Village Tale from Kenya by Mary Chamberlin
 * Strega Nona by Tomie dePaola
 * The Gingerbread Man by Jim Aylesworth
@@ -125,7 +125,7 @@ These are my favorite books from all categories
 
 ---
 
-#### Lab Girl by Hope Jahren
+### Lab Girl by Hope Jahren
 
 I read this book and wanted to love science as Hope does. I wanted to be as tenacious as Bill is. I wanted to be a botanist. I wanted to be a tree hugger. This is an amazing read. Hope and Bill went through enough things to make this into a movie. Not only is truth stranger than fiction, it is also more fun.
 
@@ -141,7 +141,7 @@ This is a great book. It is an inspiration for anyone to become the best in what
 
 ---
 
-#### Foundation Trilogy by Isaac Asimov
+### Foundation Trilogy by Isaac Asimov
 
 Foundation is my first science-fiction book. And it blew me away. I am a huge fan of science-fiction movies but this is so much more. There is the usual advanced technology but the plot is thick. The characters are awesome and the twists are amazing. After reading this I just had to read the other two books: Foundation and Empire, Second Foundation.
 
@@ -155,7 +155,7 @@ Overall, this was completely satisfying. Asimov is young and impatient. He leave
 
 ---
 
-#### The Sun Also Rises by Ernest Hemingway
+### The Sun Also Rises by Ernest Hemingway
 
 This is my second Hemingway book. I was hooked after reading his The Old Man and the Sea. The book itself is fairly straightforward and describes the events surrounding Jake and Brett. Jake is a writer and Brett is a lady with a title.
 
@@ -169,7 +169,7 @@ I recommend this book for its easy pace, simple language and a vivid description
 
 ---
 
-#### The Book Thief by Marcus Zusak
+### The Book Thief by Marcus Zusak
 
 The book moved me to tears in the last fifty pages. The author lifted my heart in the first part of the book. The book made me happy for small joys of Liesel and Rudy. The last two hundred pages dragged my heart from the skies and dropped it like a bomb. It shattered into pieces and lay at the feet of the author.
 
