@@ -23,7 +23,7 @@ These are my favorite books from all categories
   * [Foundation Trilogy](#foundation-trilogy-by-isaac-asimov) by Isaac Asimov ()
   * A Wizard of Earthsea by Ursula K. Le Guin
 * Fiction
-  * [The Book Thief](#the-book-thief-by-marcus-zuzak) by Marcus Zusak
+  * [The Book Thief](#the-book-thief-by-marcus-zusak) by Marcus Zusak
   * The Shadow of the Wind by Carlos Ruiz Zafón
   * The Shell Collector: Stories by Anthony Doerr (Awesome)
 * Classics
@@ -71,7 +71,7 @@ These are my favorite books from all categories
 
 ### Fiction
 
-* [The Book Thief](#the-book-thief-by-marcus-zuzak) by Marcus Zusak (Awesome)
+* [The Book Thief](#the-book-thief-by-marcus-zusak) by Marcus Zusak (Awesome)
 * Carlos Ruiz Zafón
     * The Shadow of the Wind (Awesome)
     * Prisoner of Heaven
