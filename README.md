@@ -1,3 +1,5 @@
+**INACTIVE** Please see book reviews at: https://stanleygeorge.com/
+
 # Book Reviews
 
 A few words on the books I've read:
